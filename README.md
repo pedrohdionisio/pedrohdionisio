@@ -1,12 +1,12 @@
-👋🏼 Olá, eu sou o Pedro Henrique Dionisio!
-📈 Essas são algumas estatísticas do meu perfil 👇🏼
+<p>👋🏼 Olá, eu sou o Pedro Henrique Dionisio!</p>
+<p>📈 Essas são algumas estatísticas do meu perfil 👇🏼</p>
  <div>
   <a href="https://github.com/pedrohdionisio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohdionisio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohdionisio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
-💻Aqui são as linguagens em que eu desenvolvo 👇🏼
+ <p>💻Aqui são as linguagens em que eu desenvolvo 👇🏼</p>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  📱 Aqui é por onde você consegue entrar em contato comigo 👇🏼
+ <p>📱 Aqui é por onde você consegue entrar em contato comigo 👇🏼</p>
  
 <div> 
   <a href="https://instagram.com/pedroh_00" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
